@@ -2,7 +2,7 @@
 Python script to scrape tables from a webpage
 
 ## Introduction
-This was the script that I used to webscrape Splunk's CIM tables to import as Lookup tables. 
+This was the script that I used to webscrape Splunk's Common Information Model tables to import as Lookup tables. 
 
 ## Requirements
 * Python 2
